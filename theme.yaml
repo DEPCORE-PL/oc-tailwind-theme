@@ -1,6 +1,6 @@
 name: Tailwind Theme
-description: This theme is based on the Tailwind CSS framework. And is made by Rapide Software.
-author: Rapide Software
-homepage: 'https://rapide.nl'
-authorCode: RapideSoftware
+description: This theme is based on the Tailwind CSS framework compiled down to css code for better performance, fork of RapideSoftware Tailwind Theme.
+author: Depcore.pl
+homepage: 'https://depcore.pl'
+authorCode: Depcore
 code: tailwind-theme

@@ -2,3 +2,4 @@ v1.0.1: Theme initialization
 v1.0.2: Theme reconstruction
 v2.0: New styles
 v3.0: New styles & bugfixes
+v4.0: addition of laravel mix to compile code.

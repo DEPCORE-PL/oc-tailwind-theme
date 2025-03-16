@@ -1,4 +1,11 @@
-
-.idea/php.xml
-.idea/exposia-thema.iml
-.idea
+node_modules/
+.vscode/
+/vscode/
+**/logs
+*.mp4
+*.mov
+/assets/js/
+/assets/css/
+package-lock.json
+ftp-sync.json
+yarn.lock
